@@ -1,16 +1,16 @@
-![info](https://github-readme-stats.vercel.app/api?username=zengfr&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=zengfr&show_icons=true&hide=prs&count_private=true&theme=default_repocard&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfr&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/zengfr)
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zengfr" id="counter">
 </p>
 
-### about me 关于我
+### About me 关于我
 - [https://github.com/zengfr](https://github.com/zengfr)
 - [https://gitee.com/zengfr](https://gitee.com/zengfr)
 - [http://blog.csdn.net/zfrong](http://blog.csdn.net/zfrong)
 - [https://my.oschina.net/zengfr](https://my.oschina.net/zengfr)
-### Connect with Me 联系我
+### Connect With Me 联系我
 - email :zengfr3000@qq.com
 - qq    :362505707
 - wechat:youandme10086
