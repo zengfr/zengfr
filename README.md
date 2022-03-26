@@ -1,5 +1,5 @@
-![info](https://github-readme-stats.vercel.app/api?username=zengfr&show_icons=true&hide=prs&count_private=true&theme=default_repocard&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfr&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/zengfr)
+![info](https://github-readme-stats.vercel.app/api?username=zengfr&show_icons=true&hide=prs&hide_border=true&count_private=true&theme=default_repocard&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zengfr&hide_border=true&layout=compact&text_color=151515&bg_color=fefefe)](https://github.com/zengfr)
 
 | About me 关于我  | Connect With Me 联系我           |
 | ------- | ---------------- |
